@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", function () {
             myChart = new Chart(ctx, {
                 type: 'bar',
                 data: {
-                    labels: ['mtPerKwHour'],
+                    labels: [],
                     datasets: getDefaultDatasets(groupedData, ['eu', 'us', 'asia'])
                 },
                 options: {
