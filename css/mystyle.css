@@ -8,3 +8,69 @@
     padding-left:220px;
     padding-right:50px;
 }
+
+#page {
+    padding-left: 280px;
+}
+.column {
+    float: left;
+    width: 30%;
+    margin: 1%;
+}
+
+
+.download {
+    background-color: #333333;
+    margin: 150px auto;
+    border-radius: 15px;
+}
+.download h2 {
+    text-align: center;
+    color: #fff;
+    padding: 25px 0 25px 0;
+}
+
+.download p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    color:#fff;
+}
+
+
+
+#page p {
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+
+}
+
+
+
+.download a{
+    width: 100%;
+    padding: 15px;
+    margin-top: 20px;
+    background-color: #5b14e3;
+    border: 0;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+}
+
+.graph-button{
+    background-color: #5b14e3;
+    padding: 15px;
+    border: 0;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+    border-radius: 15px;
+}
+.graph-button:active{
+
+        background-color: #d879f6;
+        color: white;
+}
