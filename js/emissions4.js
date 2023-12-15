@@ -26,9 +26,6 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 options: {
                     scales: {
-                        x: {
-                            stacked: true
-                        },
                         y: {
                             beginAtZero: true
                         }
