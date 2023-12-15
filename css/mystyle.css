@@ -1,0 +1,9 @@
+.sidebar{
+    background-color: red;
+    height: 100vh;
+
+}
+#graphs{
+    padding-left:220px;
+    padding-right:50px;
+}

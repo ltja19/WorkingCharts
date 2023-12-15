@@ -11,7 +11,7 @@
             // Create a chart using Chart.js
             const ctx = document.getElementById('test5').getContext('2d');
             const myChart = new Chart(ctx, {
-                type: 'line',
+                type: 'pie',
                 data: {
                     labels: labels,
                     datasets: [{
